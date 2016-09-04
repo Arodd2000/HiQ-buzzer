@@ -10,6 +10,23 @@
 
 I wrote this due to the HiQ team I am part of needing practice buzzers.
 
+=== Parts
+All parts can be purchased from http://sparkfun.com
+
+|===
+| Part name            | Part number | Quantity
+| Arduino Uno          | DEV-11021   | 1       
+| 16x2 char lcd        | LCD-00255   | 1        
+| Serial 7 seg display | COM-11442   | 1
+| RGB LED comm Cathode | COM-00105   | 1
+| Concave Button Green | COM-09341   | 1
+| Concave Button Blue  | COM-09337   | 1
+| 10K ohm resistor     | COM-11508   | 2
+| 330 ohm resistor     | COM-11507   | 1
+
+|===
+
+
 == Step 1: Download the code
 
 Download the repo from https://github.com/arodd2000/hiq-buzzer
@@ -49,26 +66,8 @@ This project is released under a Beerware License.
  this stuff is worth it, you can buy me a beer in return Poul-Henning Kamp
  ----------------------------------------------------------------------------
 
-
 === Contributing
 To contribute to this project please contact Alex Rodgers alex@rodgeville.com
-
-=== BOM
-All parts can be purchased from http://sparkfun.com
-
-|===
-| Part name            | Part number | Quantity
-| Arduino Uno          | DEV-11021   | 1       
-| 16x2 char lcd        | LCD-00255   | 1        
-| Serial 7 seg display | COM-11442   | 1
-| RGB LED comm Cathode | COM-00105   | 1
-| Concave Button Green | COM-09341   | 1
-| Concave Button Blue  | COM-09337   | 1
-| 10K ohm resistor     | COM-11508   | 2
-| 330 ohm resistor     | COM-11507   | 1
-
-|===
-
 
 === AsciiDoc
 This document is written in the _AsciiDoc_ format, a markup language to describe documents. 

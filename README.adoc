@@ -1,0 +1,59 @@
+:Project: HiQ buzzer
+:Author: Alex Rodgers
+:Email: alex@rodgeville.com
+:Date: 01/17/15
+:Revision: version# 0.1.0
+:License: Beerware
+:hide-uri-scheme:
+
+= Project: HiQ buzzer
+
+I wrote this due to the HiQ team I am part of needing practice buzzers.
+
+== Step 1: Assemble the circuit
+
+Assemble the circuit following this diagram
+
+image::/home/alex/Downloads/buzzer.jpg[Layout]
+
+== Step 2: Load the code
+
+Upload the code contained in this sketch on to your board
+
+=== Folder structure
+
+....
+ sketch123                => Arduino sketch folder
+  ├── sketch123.ino       => main Arduino file
+  ├── schematics.png      => (optional) an image of the required schematics
+  ├── layout.png          => (optional) an image of the layout
+  └── ReadMe.adoc         => this file
+....
+
+=== License
+This project is released under a Beerware License.
+
+=== Contributing
+To contribute to this project please contact Alex Rodgers alex@rodgeville.com
+
+=== BOM
+All parts can be purchased from http://sparkfun.com
+
+|===
+| Part name            | Part number | Quantity
+| Arduino Uno          | DEV-11021   | 1       
+| 16x2 char lcd        | LCD-00255   | 1        
+| Serial 7 seg display | COM-11442   | 1
+| RGB LED comm Cathode | COM-00105   | 1
+| Concave Button Green | COM-09341   | 1
+| Concave Button Blue  | COM-09337   | 1
+| 10K ohm resistor     | COM-11508   | 2
+| 330 ohm resistor     | COM-11507   | 1
+
+|===
+
+
+=== Help
+This document is written in the _AsciiDoc_ format, a markup language to describe documents. 
+If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
+or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]

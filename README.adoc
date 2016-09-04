@@ -35,6 +35,7 @@ Bring this to HiQ practice and amaze all of your nerd friends with your coding s
   ├── HiQ-buzzer.ino      => main Arduino file
   ├── HiQ buzzers_bb.jpg  => fritzing image of the layout
   ├── HiQ buzzers.fzz     => fritzing file of the layout
+  ├── License.txt         => license file
   └── README.adoc         => this file
 ....
 

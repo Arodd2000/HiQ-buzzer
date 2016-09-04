@@ -2,11 +2,17 @@
 #include <SoftwareSerial.h> //include the needed libraries
 #include <LiquidCrystal.h>
 
-// initialize the library with the numbers of the interface pins
+// initialize the lcd library with the numbers of the interface pins
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 /*
 HiQ buzzer practice program
 written By Alex Rodgers
+ ----------------------------------------------------------------------------
+ "THE BEER-WARE LICENSE" (Revision 42):
+ Alex Rodgers wrote this file. As long as you retain this notice you
+ can do whatever you want with this stuff. If we meet some day, and you think
+ this stuff is worth it, you can buy me a beer in return Poul-Henning Kamp
+ ----------------------------------------------------------------------------
 I wrote this due to the HiQ team I am part of needing practice buzzers.
 
     ***********************************

@@ -12,7 +12,7 @@ I wrote this due to the HiQ team I am part of needing practice buzzers.
 
 == Step 1: Download the code
 
-Download the repo from link::https://github.com/arodd2000/hiq-buzzer[github]
+Download the repo from https://github.com/arodd2000/hiq-buzzer
 
 == Step 2: Assemble the circuit
 
@@ -22,20 +22,32 @@ image::https://raw.githubusercontent.com/Arodd2000/HiQ-buzzer/master/HiQ%20buzze
 
 == Step 3: Load the code
 
-Upload the code contained in this sketch on to your board
+Open HiQ-buzzer.ini in arduino ide and click upload.
+
+== Step 4: Practice
+
+Bring this to HiQ practice and amaze all of your nerd friends with your coding skills. ;D
 
 === Folder structure
 
 ....
- sketch123                => Arduino sketch folder
-  ├── sketch123.ino       => main Arduino file
-  ├── schematics.png      => (optional) an image of the required schematics
-  ├── layout.png          => (optional) an image of the layout
-  └── ReadMe.adoc         => this file
+ HiQ-Buzzer               => Arduino sketch folder
+  ├── HiQ-buzzer.ino      => main Arduino file
+  ├── HiQ buzzers_bb.jpg  => fritzing image of the layout
+  ├── HiQ buzzers.fzz     => fritzing file of the layout
+  └── README.adoc         => this file
 ....
 
 === License
 This project is released under a Beerware License.
+
+ ----------------------------------------------------------------------------
+ "THE BEER-WARE LICENSE" (Revision 42):
+ Alex Rodgers wrote this file. As long as you retain this notice you
+ can do whatever you want with this stuff. If we meet some day, and you think
+ this stuff is worth it, you can buy me a beer in return Poul-Henning Kamp
+ ----------------------------------------------------------------------------
+
 
 === Contributing
 To contribute to this project please contact Alex Rodgers alex@rodgeville.com
@@ -57,7 +69,7 @@ All parts can be purchased from http://sparkfun.com
 |===
 
 
-=== Help
+=== AsciiDoc
 This document is written in the _AsciiDoc_ format, a markup language to describe documents. 
 If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
 or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]

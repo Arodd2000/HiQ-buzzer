@@ -10,13 +10,17 @@
 
 I wrote this due to the HiQ team I am part of needing practice buzzers.
 
-== Step 1: Assemble the circuit
+== Step 1: Download the code
+
+Download the repo from link::https://github.com/arodd2000/hiq-buzzer[github]
+
+== Step 2: Assemble the circuit
 
 Assemble the circuit following this diagram
 
 image::https://raw.githubusercontent.com/Arodd2000/HiQ-buzzer/master/HiQ%20buzzers_bb.jpg[Layout]
 
-== Step 2: Load the code
+== Step 3: Load the code
 
 Upload the code contained in this sketch on to your board
 

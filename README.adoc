@@ -16,7 +16,7 @@ Download the repo from https://github.com/arodd2000/hiq-buzzer
 
 == Step 2: Assemble the circuit
 
-Assemble the circuit following this diagram
+Assemble the circuit following this diagram:
 
 image::https://raw.githubusercontent.com/Arodd2000/HiQ-buzzer/master/HiQ%20buzzers_bb.jpg[Layout]
 

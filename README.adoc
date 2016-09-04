@@ -14,7 +14,7 @@ I wrote this due to the HiQ team I am part of needing practice buzzers.
 
 Assemble the circuit following this diagram
 
-image::/home/alex/Downloads/buzzer.jpg[Layout]
+image::https://raw.githubusercontent.com/Arodd2000/HiQ-buzzer/master/HiQ%20buzzers_bb.jpg[Layout]
 
 == Step 2: Load the code
 
